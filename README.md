@@ -1,7 +1,7 @@
 ### Hi there 你好！ 👋
 
 <!--
-**Wanghaoran86/Wanghaoran86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sadlamulk/Sadlamulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <!--
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Wanghaoran86"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Sadlamulk"/>
 </p>
 -->
 
 <a href="#">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Wanghaoran86&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=Sadlamulk&column=7&theme=onedark"/>
     </p>
 </a>
 
