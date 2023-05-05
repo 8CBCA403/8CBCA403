@@ -1,7 +1,7 @@
 ### Hi there 你好！ 👋
 
 <!--
-**Sadlamulk/Sadlamulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**8CBCA403/8CBCA403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,24 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Wang</h3>
+<h3 align="center">8CBCA403</h3>
 
 ---
 
 <!--
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sadlamulk"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=8CBCA403"/>
 </p>
 -->
 
 <a href="#">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Sadlamulk&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=8CBCA403&column=7&theme=onedark"/>
     </p>
 </a>
 
 <a align="center" href="#">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sadlamulk&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadlamulk&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=8CBCA403&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8CBCA403&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
