@@ -20,14 +20,9 @@
 
 ## ⚡ About me
 
-```text
-const developer = {
-  name:       "8CBCA403",
-  focus:      ["Open Source", "Developer Tools", "Pokémon Data"],
-  languages:  ["C#", "VBScript", "and whatever gets the job done"],
-  philosophy: "Stay curious. Build boldly. Share openly."
-};
-```
+<div align="center">
+  <img width="100%" src="./assets/about-me.svg" alt="About 8CBCA403 — open-source developer based in East Asia" />
+</div>
 
 ## 🛠️ Tech radar
 
