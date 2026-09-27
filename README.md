@@ -44,41 +44,61 @@ const developer = {
 
 ## 🚀 Featured projects
 
-<div align="center">
-  <a href="https://github.com/8CBCA403/WangPluginPkm">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=8CBCA403&repo=WangPluginPkm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=EC4899&text_color=C9D1D9" alt="WangPluginPkm" />
-  </a>
-  <a href="https://github.com/8CBCA403/WangPokemon-DataBase">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=8CBCA403&repo=WangPokemon-DataBase&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=EC4899&text_color=C9D1D9" alt="WangPokemon DataBase" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/8CBCA403/America-Against-America">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=8CBCA403&repo=America-Against-America&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=EC4899&text_color=C9D1D9" alt="America Against America" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 <a href="https://github.com/8CBCA403/WangPluginPkm">WangPluginPkm</a></h3>
+      <p>A PKHeX plugin built with C#.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/8CBCA403/WangPluginPkm?style=flat-square&color=00d4ff&labelColor=0d1117" alt="WangPluginPkm stars" />
+        <img src="https://img.shields.io/github/forks/8CBCA403/WangPluginPkm?style=flat-square&color=ec4899&labelColor=0d1117" alt="WangPluginPkm forks" />
+        <img src="https://img.shields.io/github/last-commit/8CBCA403/WangPluginPkm?style=flat-square&color=7c3aed&labelColor=0d1117" alt="WangPluginPkm last commit" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗃️ <a href="https://github.com/8CBCA403/WangPokemon-DataBase">WangPokemon DataBase</a></h3>
+      <p>A Pokémon database and data toolkit.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/8CBCA403/WangPokemon-DataBase?style=flat-square&color=00d4ff&labelColor=0d1117" alt="WangPokemon DataBase stars" />
+        <img src="https://img.shields.io/github/forks/8CBCA403/WangPokemon-DataBase?style=flat-square&color=ec4899&labelColor=0d1117" alt="WangPokemon DataBase forks" />
+        <img src="https://img.shields.io/github/last-commit/8CBCA403/WangPokemon-DataBase?style=flat-square&color=7c3aed&labelColor=0d1117" alt="WangPokemon DataBase last commit" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📖 <a href="https://github.com/8CBCA403/America-Against-America">America Against America</a></h3>
+      <p>Turning a hard-to-read scanned edition into clean, searchable modern text through OCR and careful human review.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/8CBCA403/America-Against-America?style=flat-square&color=00d4ff&labelColor=0d1117" alt="America Against America stars" />
+        <img src="https://img.shields.io/github/forks/8CBCA403/America-Against-America?style=flat-square&color=ec4899&labelColor=0d1117" alt="America Against America forks" />
+        <img src="https://img.shields.io/github/last-commit/8CBCA403/America-Against-America?style=flat-square&color=7c3aed&labelColor=0d1117" alt="America Against America last commit" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub telemetry
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=8CBCA403&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=EC4899&text_color=C9D1D9" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=8CBCA403&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=EC4899&currStreakLabel=00D4FF" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8CBCA403&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=8CBCA403&bg_color=0D1117&color=00D4FF&line=7C3AED&point=EC4899&area=true&hide_border=true" alt="Contribution activity graph" />
+  <p>
+    <img src="https://img.shields.io/github/followers/8CBCA403?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/8CBCA403?affiliations=OWNER&label=Stars&style=for-the-badge&color=ec4899&labelColor=0d1117" alt="Stars" />
+    <img src="https://img.shields.io/badge/Public_repositories-102-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Public repositories" />
+  </p>
+  <img width="62%" src="https://streak-stats.demolab.com?user=8CBCA403&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=EC4899&currStreakLabel=00D4FF" alt="GitHub streak" />
 </div>
 
 ## 🏆 Achievements
 
-<div align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=8CBCA403&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><b>⚡ Quickdraw</b><br/><sub>Fast issue closer</sub></td>
+    <td align="center"><b>🦈 Pull Shark</b><br/><sub>Pull requests merged</sub></td>
+    <td align="center"><b>⭐ Starstruck</b><br/><sub>A repository people love</sub></td>
+    <td align="center"><b>🎯 YOLO</b><br/><sub>Merge without review</sub></td>
+  </tr>
+</table>
 
 ## 🐍 Contribution trail
 
