@@ -51,23 +51,23 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗃️ <a href="https://github.com/8CBCA403/WangPokemon-DataBase">WangPokemon DataBase</a></h3>
-      <p>A Pokémon database and data toolkit.</p>
+      <h3>🎡 <a href="https://github.com/8CBCA403/FateFlow">FateFlow</a></h3>
+      <p>A shared date planner with a spinner, cards, and mystery boxes for choosing what to do together.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/8CBCA403/WangPokemon-DataBase?style=flat-square&color=00d4ff&labelColor=0d1117" alt="WangPokemon DataBase stars" />
-        <img src="https://img.shields.io/github/forks/8CBCA403/WangPokemon-DataBase?style=flat-square&color=ec4899&labelColor=0d1117" alt="WangPokemon DataBase forks" />
-        <img src="https://img.shields.io/github/last-commit/8CBCA403/WangPokemon-DataBase?style=flat-square&color=7c3aed&labelColor=0d1117" alt="WangPokemon DataBase last commit" />
+        <img src="https://img.shields.io/github/stars/8CBCA403/FateFlow?style=flat-square&color=00d4ff&labelColor=0d1117" alt="FateFlow stars" />
+        <img src="https://img.shields.io/github/forks/8CBCA403/FateFlow?style=flat-square&color=ec4899&labelColor=0d1117" alt="FateFlow forks" />
+        <img src="https://img.shields.io/github/last-commit/8CBCA403/FateFlow?style=flat-square&color=7c3aed&labelColor=0d1117" alt="FateFlow last commit" />
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>📖 <a href="https://github.com/8CBCA403/America-Against-America">America Against America</a></h3>
-      <p>Turning a hard-to-read scanned edition into clean, searchable modern text through OCR and careful human review.</p>
+      <h3>🛠️ <a href="https://github.com/8CBCA403/NXBuildCenter">NXBuildCenter</a></h3>
+      <p>A Windows desktop tool for building Atmosphère and Hekate and packaging them for a Nintendo Switch SD card.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/8CBCA403/America-Against-America?style=flat-square&color=00d4ff&labelColor=0d1117" alt="America Against America stars" />
-        <img src="https://img.shields.io/github/forks/8CBCA403/America-Against-America?style=flat-square&color=ec4899&labelColor=0d1117" alt="America Against America forks" />
-        <img src="https://img.shields.io/github/last-commit/8CBCA403/America-Against-America?style=flat-square&color=7c3aed&labelColor=0d1117" alt="America Against America last commit" />
+        <img src="https://img.shields.io/github/stars/8CBCA403/NXBuildCenter?style=flat-square&color=00d4ff&labelColor=0d1117" alt="NXBuildCenter stars" />
+        <img src="https://img.shields.io/github/forks/8CBCA403/NXBuildCenter?style=flat-square&color=ec4899&labelColor=0d1117" alt="NXBuildCenter forks" />
+        <img src="https://img.shields.io/github/last-commit/8CBCA403/NXBuildCenter?style=flat-square&color=7c3aed&labelColor=0d1117" alt="NXBuildCenter last commit" />
       </p>
     </td>
   </tr>
